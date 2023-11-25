@@ -66,8 +66,8 @@ Leverage the age tracking feature to plan cultivation and harvesting schedules e
 Screenshot 1
 Screenshot 2
 
-##Contributing
+## Contributing
 Contributions are encouraged! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request. Please follow our contribution guidelines.
 
-##License
+## License
 This project is licensed under the MIT License. Happy gardening and nursery management with NurseryTracker!
