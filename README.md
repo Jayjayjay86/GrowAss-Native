@@ -1,6 +1,4 @@
-# NurseryTracker - Plant Nursery Management App
-
-Welcome to NurseryTracker, your comprehensive solution for managing strains, plant numbers, and tracking the growth and propagation of plants in your nursery business. Keep detailed records of plant ages, manage cutting schedules, and streamline your nursery operations.
+# GrowAss-Native - Plant Nursery Management App
 
 ## Table of Contents
 
