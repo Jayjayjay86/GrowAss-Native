@@ -64,16 +64,16 @@ Leverage the age tracking feature to plan cultivation and harvesting schedules e
 
 ## Screenshots
 
-Screenshot of the main window:
+Screenshot of the plants window:
 ![Screenshot 1](/photo.jpg)
 
-Screenshot of the settings window:
+Screenshot of the strains window:
 ![Screenshot 2](/photo1.jpg)
 
-Screenshot of the settings window:
+Screenshot of the sales window:
 ![Screenshot 2](/photo2.jpg)
 
-Screenshot of the settings window:
+Screenshot of the create window:
 ![Screenshot 2](/photo3.jpg)
 
 Screenshot of the settings window:
