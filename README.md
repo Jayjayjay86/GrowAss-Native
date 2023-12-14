@@ -68,16 +68,16 @@ Screenshot of the main window:
 ![Screenshot 1](/photo.jpg)
 
 Screenshot of the settings window:
-![Screenshot 2](/photo1.png)
+![Screenshot 2](/photo1.jpg)
 
 Screenshot of the settings window:
-![Screenshot 2](/photo2.png)
+![Screenshot 2](/photo2.jpg)
 
 Screenshot of the settings window:
-![Screenshot 2](/photo3.png)
+![Screenshot 2](/photo3.jpg)
 
 Screenshot of the settings window:
-![Screenshot 2](/photo4.png)
+![Screenshot 2](/photo4.jpg)
 
 ## Contributing
 Contributions are encouraged! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request. Please follow our contribution guidelines.
