@@ -63,8 +63,21 @@ Record and track cutting details to optimize propagation efforts.
 Leverage the age tracking feature to plan cultivation and harvesting schedules effectively.
 
 ## Screenshots
-Screenshot 1
-Screenshot 2
+
+Screenshot of the main window:
+![Screenshot 1](/photo.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo1.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo2.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo3.png)
+
+Screenshot of the settings window:
+![Screenshot 2](/photo4.png)
 
 ## Contributing
 Contributions are encouraged! If you have ideas for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request. Please follow our contribution guidelines.
