@@ -65,7 +65,7 @@ Leverage the age tracking feature to plan cultivation and harvesting schedules e
 ## Screenshots
 
 Screenshot of the main window:
-![Screenshot 1](/photo.png)
+![Screenshot 1](/photo.jpg)
 
 Screenshot of the settings window:
 ![Screenshot 2](/photo1.png)
